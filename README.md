@@ -1,4 +1,4 @@
-# UPN-PROJECT_BI-WITH-POWER-BI_HR-DATA
+
 compelete this project as part of my BI with power BI course united newtwork of prfessionals
 key hilght 
 1 .contributed to the development of intricate KPIs and dynamic, interactive Power BI interfaces.
