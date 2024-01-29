@@ -4,9 +4,10 @@ compelete this project as part of my BI with power BI course united newtwork of 
 
 key hilght 
 
-
 1 .contributed to the development of intricate KPIs and dynamic, interactive Power BI interfaces.
+
 2.Learnt to analyse the data and translate them into effective Power BI solutions.
+
 3.Enhanced skill in creating data model, implemented data transformations and calculations using DAX for accurate analysis and reporting.
 
 
